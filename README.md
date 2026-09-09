@@ -1,1 +1,1 @@
-# public_storage
+# This is a public repo for a indiscreet file sharing :)
